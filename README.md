@@ -1,6 +1,6 @@
 # cf 
 Cif is written for Android (in this version for Android 11). 
-The code was compiled for VisualStudio 2022 with Android support.
+The code was compiled for VisualStudio 2022 with Android support. An older verison 1.5 of Cif  can be found in Google store under name CIF. The old version is with bug in matrix calculations but the new one (1.8)  works correctly.
 
 
 CIF is a program to visualize CIF files from experiments generated in ShelX or from different databases like the American Mineralogist Crystal Structure Database, CCDC, or Crystallography Open Database. This is still a beta version but supports all 230 space groups. Cif already has several modes of presentation for both organic and inorganic structures. The program allows the measurement of distances, angles, and torsion angles between atoms. Cif supports the number of presented unit cells in the x, y, and z directions. Can find hydrogen bonds in crystal nets.  The program supports different background colors. For photos just make a screenshot (volume down and turn off buttons together).
